@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AchrafSai 
-- 👀 I’m Mechatronics engineer interested in Robtics, Internet of things ,Embedded Systems, and Artificial intelligence (Computer Vision).
-- 🌱 I’m always learning newthings. 
-- 💞️ I’m looking to collaborate on Electronic project.
+- 👀 I’m a Mechatronics engineer interested in robotics, the Internet of things, Embedded Systems, and Artificial intelligence (Computer Vision).
+- 🌱 I’m always learning new things. 
+- 💞️ I’m looking to collaborate on an Electronic project.
 - 📫 You can reach me by email a_sai@enst.dz ,or send me DM on facebook.com/achrafsaihn/ or Instagram @achraf_sai
 
 <!---
